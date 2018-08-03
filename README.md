@@ -1,5 +1,5 @@
 # raton
-Raton Libre y abierto
+Raton Libre y abierto que funciona con acelerómetro
 
 ## Software necesario
 * Freecad [Pagina principal Freecad](https://www.freecadweb.org/)
