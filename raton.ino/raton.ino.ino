@@ -84,7 +84,7 @@ void loop(void) {
 
   /*Operaciones/tratamiento de datos */
   ayud1 = X/11;//(X / abs(X)) * sqrt(1 - pow(X / 11, 2));
-  ayud2 = Y/11;//(Y / abs(Y)) * sqrt(1 - pow(Y / 11, 2));
+  ayud2 = -Y/11;//(Y / abs(Y)) * sqrt(1 - pow(Y / 11, 2));
   ayud3 = Z;
   Serial.print(ayud1);
   Serial.println(ayud2);
